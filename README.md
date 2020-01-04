@@ -1,16 +1,5 @@
-# flutter_image_gallery_example
+# Flutter Image Gallery example
 
-A new Flutter application.
+How to download and display images with flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Tutorial](http://www.kaleidosblog.com/flutter-grid-view-image-gallery-how-to-download-and-display-images)
